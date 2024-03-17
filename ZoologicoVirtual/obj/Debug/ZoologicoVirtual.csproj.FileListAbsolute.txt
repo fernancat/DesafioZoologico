@@ -1,0 +1,14 @@
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\ZoologicoVirtual\ZoologicoVirtual\bin\Debug\ZoologicoVirtual.exe.config
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\ZoologicoVirtual\ZoologicoVirtual\bin\Debug\ZoologicoVirtual.exe
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\ZoologicoVirtual\ZoologicoVirtual\bin\Debug\ZoologicoVirtual.pdb
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\ZoologicoVirtual\ZoologicoVirtual\obj\Debug\ZoologicoVirtual.csproj.AssemblyReference.cache
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\ZoologicoVirtual\ZoologicoVirtual\obj\Debug\ZoologicoVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\ZoologicoVirtual\ZoologicoVirtual\obj\Debug\ZoologicoVirtual.exe
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\ZoologicoVirtual\ZoologicoVirtual\obj\Debug\ZoologicoVirtual.pdb
+C:\Users\Fernan\Documents\DesafioZoologico\ZoologicoVirtual\bin\Debug\ZoologicoVirtual.exe.config
+C:\Users\Fernan\Documents\DesafioZoologico\ZoologicoVirtual\bin\Debug\ZoologicoVirtual.exe
+C:\Users\Fernan\Documents\DesafioZoologico\ZoologicoVirtual\bin\Debug\ZoologicoVirtual.pdb
+C:\Users\Fernan\Documents\DesafioZoologico\ZoologicoVirtual\obj\Debug\ZoologicoVirtual.csproj.AssemblyReference.cache
+C:\Users\Fernan\Documents\DesafioZoologico\ZoologicoVirtual\obj\Debug\ZoologicoVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Fernan\Documents\DesafioZoologico\ZoologicoVirtual\obj\Debug\ZoologicoVirtual.exe
+C:\Users\Fernan\Documents\DesafioZoologico\ZoologicoVirtual\obj\Debug\ZoologicoVirtual.pdb
